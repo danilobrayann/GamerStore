@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\GamerStore\\web\\Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5702D6D6-921C-4DA8-9FCF-2DDBCBA46C2C}|Api\\Api.csproj|c:\\users\\danil\\onedrive\\documentos\\github\\gamerstore\\web\\api\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5702D6D6-921C-4DA8-9FCF-2DDBCBA46C2C}|Api\\Api.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5702D6D6-921C-4DA8-9FCF-2DDBCBA46C2C}|Api\\Api.csproj|c:\\users\\danil\\onedrive\\documentos\\github\\gamerstore\\web\\api\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5702D6D6-921C-4DA8-9FCF-2DDBCBA46C2C}|Api\\Api.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5702D6D6-921C-4DA8-9FCF-2DDBCBA46C2C}|Api\\Api.csproj|c:\\users\\danil\\onedrive\\documentos\\github\\gamerstore\\web\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5702D6D6-921C-4DA8-9FCF-2DDBCBA46C2C}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5702D6D6-921C-4DA8-9FCF-2DDBCBA46C2C}|Api\\Api.csproj|c:\\users\\danil\\onedrive\\documentos\\github\\gamerstore\\web\\api\\api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5702D6D6-921C-4DA8-9FCF-2DDBCBA46C2C}|Api\\Api.csproj|solutionrelative:api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5702D6D6-921C-4DA8-9FCF-2DDBCBA46C2C}|Api\\Api.csproj|c:\\users\\danil\\onedrive\\documentos\\github\\gamerstore\\web\\api\\api\\models\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5702D6D6-921C-4DA8-9FCF-2DDBCBA46C2C}|Api\\Api.csproj|solutionrelative:api\\models\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5702D6D6-921C-4DA8-9FCF-2DDBCBA46C2C}|Api\\Api.csproj|c:\\users\\danil\\onedrive\\documentos\\github\\gamerstore\\web\\api\\api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5702D6D6-921C-4DA8-9FCF-2DDBCBA46C2C}|Api\\Api.csproj|solutionrelative:api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5702D6D6-921C-4DA8-9FCF-2DDBCBA46C2C}|Api\\Api.csproj|c:\\users\\danil\\onedrive\\documentos\\github\\gamerstore\\web\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5702D6D6-921C-4DA8-9FCF-2DDBCBA46C2C}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5702D6D6-921C-4DA8-9FCF-2DDBCBA46C2C}|Api\\Api.csproj|c:\\users\\danil\\onedrive\\documentos\\github\\gamerstore\\web\\api\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5702D6D6-921C-4DA8-9FCF-2DDBCBA46C2C}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\GamerStore\\web\\Api\\Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Api\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\GamerStore\\web\\Api\\Api\\WeatherForecast.cs",
+              "RelativeToolTip": "Api\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:26:59.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\GamerStore\\web\\Api\\Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\GamerStore\\web\\Api\\Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T16:42:26.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\GamerStore\\web\\Api\\Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\GamerStore\\web\\Api\\Api\\appsettings.Development.json",
+              "RelativeToolTip": "Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T16:42:09.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\GamerStore\\web\\Api\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\GamerStore\\web\\Api\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T16:41:55.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Games.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\GamerStore\\web\\Api\\Api\\Models\\Games.cs",
+              "RelativeDocumentMoniker": "Api\\Models\\Games.cs",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\GamerStore\\web\\Api\\Api\\Models\\Games.cs",
+              "RelativeToolTip": "Api\\Models\\Games.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:06:46.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Api.csproj",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\GamerStore\\web\\Api\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\GamerStore\\web\\Api\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T18:04:44.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\GamerStore\\web\\Api\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\GamerStore\\web\\Api\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:52:45.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\GamerStore\\web\\Api\\Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\danil\\OneDrive\\Documentos\\GitHub\\GamerStore\\web\\Api\\Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAmwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:52:38.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
